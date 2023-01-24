@@ -1,2 +1,2 @@
 # cripware
-cripware chicblocko script
+cripware chicblocko script [the best script]
